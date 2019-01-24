@@ -3,9 +3,10 @@
     <string name="it_s_a_map">IT\'S A MAP</string>
     <string name="map">map</string>
     <string name="a_map">a Map!</string>
-    <string name="button">Button</string>
-    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
     <string name="clear">CLEAR</string>
     <string name="detect">DETECT</string>
     <string name="textview">TextView</string>
+    <string name="button3">about</string>
 </resources>
